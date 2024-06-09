@@ -1,6 +1,6 @@
 const express = require('express');
 const bodyParser = require('body-parser');
-const login = require('./yafbv3-fca-unofficial/index');
+const login = require('./yafbv3-fca-unofficial/index.js');
 const fs = require('fs');
 const config = require('./config.json');
 
